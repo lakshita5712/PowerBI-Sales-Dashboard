@@ -8,8 +8,7 @@ This project is an interactive Power BI dashboard designed to analyze sales perf
 
 ## Dashboard Preview
 
-![Dashboard](Images/dashboard-overview.png)
-
+![Dashboard](Images/Dashboard.png)
 ---
 
 ## Features
